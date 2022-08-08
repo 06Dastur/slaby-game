@@ -1,0 +1,29 @@
+.i1{
+	width: 100%;
+	height: 73px;
+	background: none;
+}
+.i2{
+	width: 25%;
+	height: 72px;
+	background: white;
+	border: 2px solid blueviolet;
+	float: left;
+}
+.img{
+	border-radius: 50%;
+	height: 90%;
+	border: 2px solid #F91D0B;
+	text-align: center;
+	margin-left: 18%;
+	box-shadow: 7px 5px 5px #687361;
+}
+.i3{
+	width: 100%;
+	height: 205px;
+	/*border: 2px solid green;*/
+}
+.video{
+	width: 25%;
+	height: 200px;
+}
